@@ -40,7 +40,7 @@ DATASET_GENERATION/
 
 ├── METHODS/
 │   ├── IndicBert.py                    # IndicBERT based model
-│   ├── bert_fine_tune.py              # BERT model training
+│   ├── bert_fine_tune.py              # BERT model training(fine-tunes the XLM-RoBERTa transformer model to classify Hindi texts as human-written or LLM-generated
 │   ├── bert_fine_tune_inference.py    # BERT inference
 │   ├── detect_gpt.py                  # DetectGPT training
 │   ├── detect_gpt_inference.py        # DetectGPT inference
